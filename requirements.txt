@@ -1,0 +1,6 @@
+openvino
+torch
+transformers
+numpy
+pandas
+seaborn
